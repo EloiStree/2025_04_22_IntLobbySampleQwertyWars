@@ -1,0 +1,16 @@
+
+{                                                                   
+            "name": "be.elab.qwertywarsintlobbyEditor",          
+    "references": ["be.elab.qwertywarsintlobby"
+],                                                              
+    "optionalUnityReferences": [],                                  
+    "includePlatforms": [                                           
+        "Editor"                                                    
+    ],                                                              
+    "excludePlatforms": [],                                         
+    "allowUnsafeCode": false,                                       
+    "overrideReferences": false,                                    
+    "precompiledReferences": [],                                    
+    "autoReferenced": true,                                         
+    "defineConstraints": []                                         
+}                                                                   

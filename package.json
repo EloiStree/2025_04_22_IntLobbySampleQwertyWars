@@ -1,0 +1,29 @@
+
+{                                                                                
+  "name": "be.elab.qwertywarsintlobby",                              
+  "displayName": "Qwerty Wars Int Lobby Sample",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Int Lobby sample of a Query Wars game.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples": [
+    {
+      "displayName": "Demo Scene",
+      "description": "Demo on how to use the package",
+      "path": "Scene/Demo"
+    }
+  ] ,     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2025_04_22_IntLobbySampleQwertyWars.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
